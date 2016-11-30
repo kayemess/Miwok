@@ -12,18 +12,18 @@ This is my first multi-screen app! It’s a vocabulary app that teaches common w
 Topics covered…
 
 - generic Android behaviors
- - drawables
- - conditional styling
- - defined variables (strings.xml, styles.xml, colors.xml)
- - switch statements
- - if statements
- - private methods
- - XML layouts
+ * drawables
+ * conditional styling
+ * defined variables (strings.xml, styles.xml, colors.xml)
+ * switch statements
+ * if statements
+ * private methods
+ * XML layouts
 - using intents to navigate between activities
 - implementing onClickListener interface (to asynchronously listen for clicks!)
 - defining a custom object that included multiple constructors
 - using ArrayLists — and an Adapter to translate the ArrayList into UI elements
- - specifically… extended ArrayAdapter class (and list_item.xml) to show multiple TextViews, ImageViews in a ListView list item (instead of default single TextView)
+ * specifically… extended ArrayAdapter class (and list_item.xml) to show multiple TextViews, ImageViews in a ListView list item (instead of default single TextView)
 - using MediaPlayer with AudioFocus to appropriately handle audio
 - styled and polished UI with redline mockups
 - debugging and logging :-)
