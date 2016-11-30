@@ -10,6 +10,7 @@ Personal Notes
 This is my first multi-screen app! It’s a vocabulary app that teaches common words and phrases in Miwok — and includes useful images and pronunciation soundbites.
 
 Topics covered…
+
 - generic Android behaviors
     -> drawables
     -> conditional styling
