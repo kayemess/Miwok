@@ -5,7 +5,6 @@ This app displays lists of vocabulary words for the user to learn the Miwok lang
 Used in a Udacity course in the Beginning Android Nanodegree.
 
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Personal Notes
 --------------
 This is my first multi-screen app! It’s a vocabulary app that teaches common words and phrases in Miwok — and includes useful images and pronunciation soundbites.
@@ -27,8 +26,6 @@ Topics covered…
 — using MediaPlayer with AudioFocus to appropriately handle audio
 — styled and polished UI with redline mockups
 — debugging and logging :-)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 
 Pre-requisites
 --------------
