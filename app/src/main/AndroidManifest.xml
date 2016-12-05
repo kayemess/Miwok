@@ -16,6 +16,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.android.miwok">
 
+    <uses-permission android:name="android.permission.SET_DEBUG_APP"></uses-permission>
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -30,16 +32,20 @@
             </intent-filter>
         </activity>
         <activity android:name=".Activities.NumbersActivity"
-            android:label="@string/category_numbers"/>
+            android:label="@string/category_numbers"
+            android:parentActivityName=".Activities.MainActivity"/>
 
         <activity android:name=".Activities.PhrasesActivity"
-            android:label="@string/category_phrases"/>
+            android:label="@string/category_phrases"
+            android:parentActivityName=".Activities.MainActivity"/>
 
         <activity android:name=".Activities.FamilyActivity"
-            android:label="@string/category_family"/>
+            android:label="@string/category_family"
+            android:parentActivityName=".Activities.MainActivity"/>
 
         <activity android:name=".Activities.ColorsActivity"
-            android:label="@string/category_colors"/>
+            android:label="@string/category_colors"
+            android:parentActivityName=".Activities.MainActivity"/>
     </application>
 
 </manifest>
