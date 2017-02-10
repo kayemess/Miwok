@@ -30,4 +30,12 @@
         <item name="android:textStyle">bold</item>
         <item name="android:textSize">18sp</item>
     </style>
+
+    <style name="tabStyle" parent="Widget.Design.TabLayout">
+        <item name="tabTextColor">@color/tabTextColor</item>
+        <item name="tabSelectedTextColor">@color/tabSelectedColor</item>
+        <item name="tabBackground">@color/primary_color</item>
+        <item name="tabIndicatorColor">@color/tabSelectedColor</item>
+    </style>
+
 </resources>

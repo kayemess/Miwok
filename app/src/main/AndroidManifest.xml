@@ -31,21 +31,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Activities.NumbersActivity"
-            android:label="@string/category_numbers"
-            android:parentActivityName=".Activities.MainActivity"/>
 
-        <activity android:name=".Activities.PhrasesActivity"
-            android:label="@string/category_phrases"
-            android:parentActivityName=".Activities.MainActivity"/>
-
-        <activity android:name=".Activities.FamilyActivity"
-            android:label="@string/category_family"
-            android:parentActivityName=".Activities.MainActivity"/>
-
-        <activity android:name=".Activities.ColorsActivity"
-            android:label="@string/category_colors"
-            android:parentActivityName=".Activities.MainActivity"/>
     </application>
 
 </manifest>

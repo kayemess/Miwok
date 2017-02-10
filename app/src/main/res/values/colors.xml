@@ -34,4 +34,11 @@
 
     <!-- Background color for the phrases category -->
     <color name="category_phrases">#16AFCA</color>
+    
+    <!-- Text color for tab sliders -->
+    <color name="tabTextColor">#A8A19E</color>
+
+    <!-- Tab selected color -->
+    <color name="tabSelectedColor">#FFFFFF</color>
+
 </resources>
